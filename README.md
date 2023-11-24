@@ -1,6 +1,6 @@
 # fsm
 Finite state machine for java automation. 
-I wrote it 3 years ago, and now a more specialized version is running on my company's instruments.
+I wrote it some years ago, for my home automation experiments, and I used it also for general automation tasks. 
 
 Permits to define the cycle time for steps execution, globally or over a single step.
 
